@@ -1,0 +1,15 @@
+img {
+    width: 40%;
+    height:40%;
+}
+
+body {
+    align-content: center;
+    background-color: burlywood;
+}
+#name {
+    font-size: 50px;
+    position: center;
+    color: crimson;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
